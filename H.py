@@ -55,9 +55,9 @@ def show_banner():
     print(banner)
 
 # ============ ENVIRONMENT VARIABLES ============
-TOKEN = os.environ.get("BOT_TOKEN", "")
-OWNER_ID = int(os.environ.get("OWNER_ID", 0))
-ADMIN_ID = int(os.environ.get("ADMIN_ID", 0))
+TOKEN = os.environ.get("8799747223:AAFSkMsJIxlVNaduayzXpBq_t1KrhakhzmE", "")
+OWNER_ID = int(os.environ.get("7964730489", 0))
+ADMIN_ID = int(os.environ.get("7964730489", 0))
 YOUR_USERNAME = os.environ.get("YOUR_USERNAME", "@Ritikxyz099")
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "https://t.me/Xyzr4")
 
