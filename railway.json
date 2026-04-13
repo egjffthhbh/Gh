@@ -7,5 +7,13 @@
     "startCommand": "python H.py",
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 10
+  },
+  "env": {
+    "BOT_TOKEN": "8799747223:AAFSkMsJIxlVNaduayzXpBq_t1KrhakhzmE",
+    "OWNER_ID": "7964730489",
+    "ADMIN_ID": "7964730489",
+    "YOUR_USERNAME": "Ritikxyz099",
+    "UPDATE_CHANNEL": "https://t.me/Xyzr4",
+    "PORT": "8080"
   }
 }
