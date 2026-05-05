@@ -47,7 +47,7 @@ def keep_alive():
 # --- Configuration ---
 TOKEN = '8512201190:AAHmlqj17EpvMHZIcAajw42xmr7JaXQ3Cpw' # Replace with your actual token
 OWNER_ID = 8591507363 # Replace with your Owner ID
-ADMIN_ID = 8477195695 # Replace with your Admin ID (can be same as Owner)
+ADMIN_ID = 7964730489 # Replace with your Admin ID (can be same as Owner)
 YOUR_USERNAME = '@MAHAKALXGAME' # Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = 'https://t.me/MAHAKALXGAME1' # Replace with your update channel link
 
